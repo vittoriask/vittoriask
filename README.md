@@ -1,6 +1,6 @@
 <div>
-<align="center">
-<h2> Hey everyone 👋; </h2>
+<h2 align="center">
+ Hey everyone 👋 </h2>
  <br>
   <a href="https://github.com/vittoriask">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=vittoriask&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
