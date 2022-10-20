@@ -12,7 +12,7 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Chibi-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/c6/0f/70/c60f702c06903ab3ac739f86a036d7b6.gif">
+  <img align="right" alt="Chibi-pic" height="150" style="border-radius:50px;" src="https://pa1.narvii.com/6963/29e87d118436afd93f37af69be14e2226b709157r1-500-220_hq.gif">
 </div>
 
  ##
